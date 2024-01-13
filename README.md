@@ -2,13 +2,15 @@
 
 - 🛠️ I’m currently working: as a freelance web developer. Looking for work - feel free to get in touch about any opportunities or projects.
 
-- 🌱 I’m currently learning: Astro, React Native, and lots of different backend stuff.
+- 🌱 I’m currently learning: Astro, and some different backend stuff. Lots of reading.
 
 - 💬 Get in touch: me@alexnguyen.co.nz
 
 - 🚀 My website: <a href="https://alexnguyen.co.nz" target="blank">https://alexnguyen.co.nz</a>
 
 - 📰 My blog:  <a href="https://alexnguyen.co.nz/blog" target="blank">https://alexnguyen.co.nz/blog</a>
+
+
 
 ### Connect with me:
 <p>
@@ -28,3 +30,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
 </p>
+
+<a href="https://astro.badg.es/contributor/alexnguyennz/">
+  <img src="https://astro.badg.es/v2/contributor/alexnguyennz.svg" alt="@alexnguyennz Astro contributions" width="260" height="156">
+</a>
