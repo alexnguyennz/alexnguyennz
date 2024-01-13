@@ -1,24 +1,20 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Alex!</h1>
 
-- 🛠️ I’m currently working: as a freelance web developer. Looking for work - feel free to get in touch about any opportunities or projects.
+- 🛠️ I’m currently working: as a freelance developer. Looking for work - please get in touch about any opportunities or projects!
 
-- 🌱 I’m currently learning: Astro, and some different backend stuff. Lots of reading.
+- 🌱 I’m currently learning: Astro, and some different backend stuff.
 
 - 💬 Get in touch: me@alexnguyen.co.nz
 
 - 🚀 My website: <a href="https://alexnguyen.co.nz" target="blank">https://alexnguyen.co.nz</a>
 
-- 📰 My blog:  <a href="https://alexnguyen.co.nz/blog" target="blank">https://alexnguyen.co.nz/blog</a>
-
-
-
-### Connect with me:
+### Connect with me
 <p>
-<a href="https://twitter.com/anguyendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexnguyennz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anguyennz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexnguyennz" height="30" width="40" /></a>
+<a href="https://twitter.com/anguyendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexnguyennz" height="24" width="40" /></a>
+<a href="https://www.linkedin.com/in/anguyennz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexnguyennz" height="24" width="40" /></a>
 </p>
 
-### Languages and tools:
+### Languages and tools
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
