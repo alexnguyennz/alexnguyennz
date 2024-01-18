@@ -26,7 +26,3 @@
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
 </p>
-
-<a href="https://astro.badg.es/contributor/alexnguyennz/">
-  <img src="https://astro.badg.es/v2/contributor/alexnguyennz.svg" alt="@alexnguyennz Astro contributions" width="260" height="156">
-</a>
